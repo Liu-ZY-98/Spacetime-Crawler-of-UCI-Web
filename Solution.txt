@@ -1,0 +1,113 @@
+1. The number of unique pages is 23144
+2. The longest page is http://www.ics.uci.edu/~kay/wordlist.txt
+with 294188 words.
+3. The 50 most common words are: 
+0
+li
+reply
+img
+2019
+5px
+events
+pm
+ul
+var
+day
+event
+2018
+solid
+none
+search
+2020
+january
+information
+92px
+1px
+can
+us
+thanks
+data
+will
+december
+1em
+code
+10px
+conference
+1
+bytes
+computer
+table
+previous
+research
+wics
+contact
+please
+october
+navigation
+community
+current
+february
+july
+november
+sort
+ramesh
+good
+4. 
+Subdomain num = 57
+www.ics.uci.edu 1290
+support.ics.uci.edu 2
+calendar.ics.uci.edu 1
+transformativeplay.ics.uci.edu 46
+psearch.ics.uci.edu 1
+mswe.ics.uci.edu 19
+redmiles.ics.uci.edu 6
+cradl.ics.uci.edu 19
+jgarcia.ics.uci.edu 17
+seal.ics.uci.edu 5
+evoke.ics.uci.edu 1360
+sdcl.ics.uci.edu 217
+helpdesk.ics.uci.edu 1
+mondego.ics.uci.edu 2
+cml.ics.uci.edu 164
+vision.ics.uci.edu 6
+archive.ics.uci.edu 6
+computableplant.ics.uci.edu 32
+emj.ics.uci.edu 44
+cbcl.ics.uci.edu 3
+mailman.ics.uci.edu 4
+grape.ics.uci.edu 13
+sli.ics.uci.edu 674
+ngs.ics.uci.edu 4324
+plrg.ics.uci.edu 8
+isg.ics.uci.edu 113
+www-db.ics.uci.edu 15
+flamingo.ics.uci.edu 5
+asterix.ics.uci.edu 5
+fr.ics.uci.edu 2
+xtune.ics.uci.edu 5
+sconce.ics.uci.edu 1
+duttgroup.ics.uci.edu 90
+iasl.ics.uci.edu 175
+ipf.ics.uci.edu 1
+esl.ics.uci.edu 2
+asterix-gerrit.ics.uci.edu 1
+nalini.ics.uci.edu 6
+hai.ics.uci.edu 1
+wearablegames.ics.uci.edu 10
+mse.ics.uci.edu 1
+mhcid.ics.uci.edu 14
+hana.ics.uci.edu 19
+honors.ics.uci.edu 18
+informatics.ics.uci.edu 28
+wics.ics.uci.edu 12911
+studentcouncil.ics.uci.edu 1
+cert.ics.uci.edu 1
+futurehealth.ics.uci.edu 8
+sprout.ics.uci.edu 1
+graphics.ics.uci.edu 2
+statconsulting.ics.uci.edu 4
+cwicsocal18.ics.uci.edu 11
+hombao.ics.uci.edu 1
+mcs.ics.uci.edu 39
+cyberclub.ics.uci.edu 1
+cloudberry.ics.uci.edu 58
